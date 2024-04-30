@@ -1,2 +1,1 @@
-# javascript-practise
-# commit
+# hello this is a clone for musclewiki website
